@@ -3,6 +3,7 @@ shower
 fix stuff
 make cake
 Write
-Play soccer
-make food
+Buy plants.
+Clean the program.
 Master Python!
+drive
