@@ -5,3 +5,4 @@ make cake
 Write
 Play soccer
 make food
+Master Python!
