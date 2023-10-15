@@ -2,8 +2,6 @@ prepare
 shower
 fix stuff
 make cake
-Write
 Buy plants.
-Clean the program.
 Master Python!
 drive
